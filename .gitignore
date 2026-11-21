@@ -166,3 +166,7 @@ cython_debug/
 *.par
 *.parquet
 *.pickle
+
+# Parquet datasets and recommendation results
+*.parquet
+*.parquet.*
