@@ -166,3 +166,22 @@ cython_debug/
 *.par
 *.parquet
 *.pickle
+
+# Parquet datasets and recommendation results
+*.parquet
+*.parquet.*
+
+# Python virtual environments
+env_recsys_start/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
